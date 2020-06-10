@@ -15,4 +15,4 @@
 #The statistical power of the PANAS was estimated in branch called PANAS. For the positive affect scale the files "utilities_positive_affect.R" and "power_simulation_positive_affect.R" must be saved in the same folder. Then the simulation can be conducted by running the file "power_simulation_positive_affect.R". For the negative affect scale the files "utilities_negative_affect.R" and "power_simulation_negative_affect.R" must be saved in the same folder. Then the simulation can be conducted by running the file "power_simulation_negative_affect.R".
 #The statistical power of the Visual Analogue Mood Scale was estimated in branch called Visual Analogue Mood Scale. The files "utilities_VAMS.R" and "power_simulation_VAMS.R" must be saved in the same folder. Then the simulation can be conducted by running the file "power_simulation_VAMS.R".
 
-#Correspondance concerning this repository should be addressed to Ana Antonia Dias Maile. Email: ana.dias.maile@hhu.de
+#Correspondence concerning this repository should be addressed to Ana Antonia Dias Maile. Email: ana.dias.maile@hhu.de
