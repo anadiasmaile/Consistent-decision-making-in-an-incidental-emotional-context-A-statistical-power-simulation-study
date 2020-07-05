@@ -1,15 +1,14 @@
 # Consistent-decision-making-in-an-incidental-emotional-context-A statistical-power-simulation-study
  This repository consists of the R scripts used for the statistical power simulation study
 
-A planned study is going to investigate the impact of an incidental emotional context on decision making under risk. The present study sought to enable a quality experimental design for this. Both sample size and effect size were evaluated to ensure a good statistical power. Three statistical power simulations were conducted for this. The language and environment for statistical computing, called R, was used. This repository consists of the used scripts.
+A planned study is going to investigate the impact of an incidental emotional context on decision making under risk. The present study aims to enable a quality experimental design for this. Both sample size and effect size were evaluated to ensure a good statistical power. Three statistical power simulations were conducted for this. The language and environment for statistical computing, called R, was used. This repository consists of the used scripts.
 
 ## Statistical power simulation 1
 The impact of a varying sample size on the statistical power was simulated. The files "utilities_sample_size.R" and "power_simulation_sample_size.R" must be saved in the same folder. Then the power simulation can be conducted by running the file "power_simulation_sample_size.R".
 
 ## Statistical power simulation 2
-The given effect size was calculated with the file "estimate_effect_size.R".
-The impact of a varying e_pos on the mean CCEI of decisions across frames for the positive emotional context group was simulated. The files "utilities_e_pos.R" and "mean_simulation_e_pos.R" must be saved in the same folder. Then the simulation can be conducted by running the file "mean_simulation_e_pos.R".
-The impact of a varying e_pos on the statistical power was simulated. The files "utilities_effect_size.R" and "power_simulation_effect_size.R" must be saved in the same folder. Then the simulation can be conducted by running the file "power_simulation_effect_size.R".
+The impact of a varying e_pos on the effect size was simulated. The files "utilities_e_pos.R" and "effect_size_e_pos.R" must be saved in the same folder. Then the simulation can be conducted by running the file "effect_size_e_pos.R".
+Next the impact of a varying effect size on the statistical power was simulated. The files "utilities_effect_size1.R", "utilities_effect_size2.R" and "power_simulation_effect_size.R" must be saved in the same folder. Then the power simulation can be conducted by running the file "power_simulation_effect_size.R".
 
 ## Statistical power simulation 3
 ### PANAS
