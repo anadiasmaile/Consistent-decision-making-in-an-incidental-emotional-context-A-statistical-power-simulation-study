@@ -1,5 +1,5 @@
 # Consistent-decision-making-in-an-incidental-emotional-context-A statistical-power-simulation-study
- This repository consists of the R scripts used for the statistical power simulation study
+ This repository consists of the R scripts used for the statistical power simulation study.
 
 A planned study is going to investigate the impact of an incidental emotional context on decision making under risk. The present study aims to enable a quality experimental design for this. Both sample size and effect size were evaluated to ensure a good statistical power. Three statistical power simulations were conducted for this. The language and environment for statistical computing, called R, was used. This repository consists of the used scripts.
 
